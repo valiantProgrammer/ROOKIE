@@ -1,0 +1,23 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Local env files
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor settings
+.vscode/
+
+# Runtime artifacts
+output/
+report/
+
+# OS files
+.DS_Store
+Thumbs.db
